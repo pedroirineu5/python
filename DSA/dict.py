@@ -22,5 +22,8 @@ pessoa = {
         'hobbies': ['Beber', 'ser Foda']
     }
 }
+#     v                   v até o ultimo v, será retornado uma lista
+print(pessoa.get('hobbies')[0])
 
-print(pessoa['mae'])
+#acessando a pessoa pedro, indo para a mãe, acessar o array de hobbies e pega o primeiro valor. :)
+print(pessoa['mae']['hobbies'][0])
