@@ -1,0 +1,1 @@
+print('Foi uma grande revisão sobre o inicio muito básico, sobre o que é um programa, e mexendo com python no modo interativo.')
